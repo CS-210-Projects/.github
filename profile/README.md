@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# CS 210 Projects
+# CS 210
 
-Welcome to the CS 210 Projects organization. This repository contains a collection of projects that I have developed as part of the CS 210 course. Throughout this class, I focused extensively on mastering C++ and applying it to solve real-world problems.
+Welcome to the CS 210 organization. This repository contains a collection of projects that I have developed as part of the CS 210 course. Throughout this class, I focused extensively on mastering C++ and applying it to solve real-world problems.
 
 ## About the Course
 CS 210 is a foundational course in computer science that emphasizes the principles of programming using C++. The course covers a range of topics, including object-oriented programming, data structures, algorithms, and software development best practices. The projects within this organization reflect the culmination of my learning and practical application of these concepts.
