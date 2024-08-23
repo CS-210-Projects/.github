@@ -1,4 +1,4 @@
-# .github
+# CS 210 Projects
 
 Welcome to the CS 210 Projects organization. This repository contains a collection of projects that I have developed as part of the CS 210 course. Throughout this class, I focused extensively on mastering C++ and applying it to solve real-world problems.
 
